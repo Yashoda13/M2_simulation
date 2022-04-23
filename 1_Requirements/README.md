@@ -7,3 +7,6 @@
 4.RESET BUTTONS
 5.LED
 
+# ATMEGA328 PIN DESCRIPTION 
+
+![ATMEGA328](https://user-images.githubusercontent.com/102661424/164886644-4b94da38-da69-461d-aa0b-22f76a6092a0.png)
